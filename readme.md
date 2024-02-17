@@ -1,4 +1,4 @@
-# CRUD-SIMPLE-APP 
+# SIMPLE-CRUD-APP 
 
 ## Notes 
 
