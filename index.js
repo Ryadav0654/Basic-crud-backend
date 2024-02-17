@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 //   }
 // });
 
-// // print all products
+ // print all products
 
 // app.get("/products", async (req, res) => {
 //   try {
@@ -60,7 +60,7 @@ app.get("/", (req, res) => {
 //   }
 // });
 
-// // update the product
+ // update the product
 
 // app.put("/product/:id", async (req, res) => {
 //   try {
@@ -76,7 +76,7 @@ app.get("/", (req, res) => {
 //   }
 // });
 
-// // delete the product
+ // delete the product
 
 // app.delete("/product/:id", async (req, res) => {
 //   try {
